@@ -2241,9 +2241,9 @@ input, select, textarea {
 
 		}
 
-/* Intro */
+/* HOME */
 
-	#intro {
+	#home {
 		background: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
@@ -2251,27 +2251,37 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
-/* One */
+/* EVENTS */
 
-	#one {
+	#events {
+		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: repeat, no-repeat;
+	}
+
+/* ENGAGEMENT */
+
+	#engagement {
 		background: url("images/overlay.png"), url("../../images/engagement.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
-/* Two */
+/* VENUE */
 
-	#two {
+	#venue {
 		background: url("images/overlay.png"), url("../../images/venue.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
-/* Contact */
+/* RSVP */
 
-	#contact {
+	#rsvp {
 		overflow: hidden;
 		padding-bottom: 0;
 	}
