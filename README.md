@@ -1,8 +1,8 @@
 # website trial
 
-# Landing page - Alde with Liu
+## Landing page - Alde with Liu
 
-# Section/Feature
+## Section/Feature
 - Main Info
 - Countdown to D-Day
 - Time and Place Info
@@ -10,10 +10,10 @@
 - Map Direction Button (Google Map; Apple Map)
 - Send Message Button (email response)
 
-# Info
+## Info
 - Live version: https://vmliu366.github.io/website-trial/
 
-# Credits
+## Credits
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
